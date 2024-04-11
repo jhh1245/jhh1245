@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 <div align="center"> 
 
  
-####  :wave: Welcome my github profile !
+####  :star: Welcome my github profile !
 
-  
- <br/>
- <br/>
   
 ####  :clipboard: Once I've Used 
   
@@ -47,6 +44,8 @@ Here are some ideas to get you started:
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhh1245&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 🌱 Velog
   
 [https://velog.io/@jhh1245](https://velog.io/@jhh1245/posts) 
 </div>
