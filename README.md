@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 #### 🌱 Velog
   
-[https://velog.io/@jhh1245](https://velog.io/@jhh1245/posts) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jhh1245)](https://velog.io/@jhh1245/posts) 
 </div>
